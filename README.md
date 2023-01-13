@@ -3,12 +3,6 @@
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://blog.naver.com/cjsrhd882)
 
 
-<h2>안녕하세요 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" /></h2>
-
-<img src="./img/coding.gif" alt="Coding" height="200px" />
-
-[![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=)](https://solved.ac/carbonsix)
-
 ## 🛠 Tech Stack
 
 <div>
@@ -16,6 +10,10 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 </div>
+
+<img src="./img/coding.gif" alt="Coding" height="200px" />
+
+[![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=)](https://solved.ac/carbonsix)
 
 ## 📚 Education
 
