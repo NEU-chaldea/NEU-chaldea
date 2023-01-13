@@ -5,8 +5,6 @@
 
 <h2>안녕하세요 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" /></h2>
 
-
-
 <img src="./img/coding.gif" alt="Coding" height="200px" />
 
 [![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=)](https://solved.ac/carbonsix)
