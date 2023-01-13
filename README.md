@@ -21,5 +21,6 @@
 
 ## :chart_with_upwards_trend: GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?NEU-chaldea=anuraghazra&show_icons=true&theme=transparent)
-
+<a href="https://solved.ac/profile/">
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=">
+</a>
