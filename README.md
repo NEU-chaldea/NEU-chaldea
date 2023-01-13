@@ -1,25 +1,23 @@
-<div align="right">
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeongHwan-dev&count_bg=%23769CDD&title_bg=%238E8E8E&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" align="right" />
-  </a>
-</div>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJoylish&count_bg=%23C558DD&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:cjsrhd882222@gmail.com) 
+[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://blog.naver.com/cjsrhd882)
+
 
 <h2>안녕하세요 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" /></h2>
-
-
-[**네이버**]("수정중")에서 저의 이력을 확인하실 수 있습니다. (수정중)
-
 
 
 
 <img src="./img/coding.gif" alt="Coding" height="200px" />
 
+[![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=carbonsix)](https://solved.ac/carbonsix)
+
 ## 🛠 Tech Stack
 
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=black">
+<div>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-
+</div>
 
 ## 📚 Education
 
@@ -33,9 +31,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=NEU-chaldea&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0d1017" alt="Github Stats" height="150px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NEU-chaldea&hide_border=true&layout=compact&theme=react&bg_color=0d1017" alt="Top Languages" height="150px" />
 </p>
-
-### 🔍 Approach
-
-<div>
-<a href="mailto:carbonsindh@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=cjsrhd882222@gmail.com"/></a>
-</div>
