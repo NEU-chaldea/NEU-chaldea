@@ -4,11 +4,11 @@
   </a>
 </div>
 
-<h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" /></h2>
+<h2>안녕하세요 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" /></h2>
 
 
-[**네이버**]("수정중")에서 저의 이력을 확인하실 수 있습니다. (2023.01. 업데이트)
-mailbox_with_mail: E-mail : cjsrhd882@naver.com
+[**네이버**]("수정중")에서 저의 이력을 확인하실 수 있습니다. (수정중)
+
 
 
 
@@ -31,3 +31,9 @@ mailbox_with_mail: E-mail : cjsrhd882@naver.com
   <img src="https://github-readme-stats.vercel.app/api?username=NEU-chaldea&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0d1017" alt="Github Stats" height="150px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NEU-chaldea&hide_border=true&layout=compact&theme=react&bg_color=0d1017" alt="Top Languages" height="150px" />
 </p>
+
+### 🔍 Approach
+
+<div>
+<a href="mailto:carbonsindh@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=cjsrhd882222@gmail.com"/></a>
+</div>
