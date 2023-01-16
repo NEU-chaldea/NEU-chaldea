@@ -1,6 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNEU-chaldea&count_bg=%23C558DD&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:cjsrhd882222@gmail.com) 
-[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]([https://blog.naver.com/cjsrhd882](https://www.notion.so/6268f11cc5c9460aaa41b9ff1014c95b))
+[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]([https://www.notion.so/6268f11cc5c9460aaa41b9ff1014c95b])
 
 ## 🧰 Stack
 
